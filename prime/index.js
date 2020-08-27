@@ -8,4 +8,8 @@ function isPrime(n){
   console.log(flag);
   }
 
-  isPrime(5);
+
+
+//output---
+  //isPrime(5);
+//true
