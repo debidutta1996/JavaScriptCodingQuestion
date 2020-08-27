@@ -10,4 +10,7 @@ function fib(n){
 }
 
 
-fib(5);
+//fib(5);
+
+//output --
+//[0,1,1,2,3]
